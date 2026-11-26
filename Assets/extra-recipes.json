@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Сирники",
+    "MealType": "Breakfast",
+    "ImagePath": "Assets/Images/syrniki.jpg",
+    "CookingTimeMinutes": 25,
+    "Servings": 2,
+    "Ingredients": [
+      { "Name": "Сир кисломолочний", "CaloriesPer100g": 121, "WeightGrams": 200 },
+      { "Name": "Яйце", "CaloriesPer100g": 155, "WeightGrams": 50 },
+      { "Name": "Борошно", "CaloriesPer100g": 364, "WeightGrams": 40 },
+      { "Name": "Мед", "CaloriesPer100g": 304, "WeightGrams": 20 }
+    ],
+    "InstructionSteps": [
+      "Сир розімніть виделкою, додайте яйце і борошно. Замісіть м’яке тісто — воно має трохи липнути, але тримати форму.",
+      "Сформуйте 6 невеликих кружалець і обваляйте в борошні.",
+      "Смажте на середньому вогні по 3–4 хвилини з кожного боку до рум’яної скоринки.",
+      "Подавайте теплими з медом або сметаною. Не накривайте кришкою, інакше скоринка розмокне."
+    ]
+  },
+  {
+    "Name": "Запіканка з овочами",
+    "MealType": "Dinner",
+    "ImagePath": "Assets/Images/cottage.jpg",
+    "CookingTimeMinutes": 40,
+    "Servings": 2,
+    "Ingredients": [
+      { "Name": "Картопля", "CaloriesPer100g": 77, "WeightGrams": 200 },
+      { "Name": "Броколі", "CaloriesPer100g": 34, "WeightGrams": 100 },
+      { "Name": "Сир", "CaloriesPer100g": 350, "WeightGrams": 50 },
+      { "Name": "Яйце", "CaloriesPer100g": 155, "WeightGrams": 50 },
+      { "Name": "Молоко", "CaloriesPer100g": 64, "WeightGrams": 80 }
+    ],
+    "InstructionSteps": [
+      "Духовку розігрійте до 190°C. Картоплю наріжте тонкими кружальцями, броколі розділіть на суцвіття.",
+      "Збийте яйце з молоком — це буде заливка.",
+      "Викладіть овочі у форму шарами, залийте яєчно-молочною сумішшю, зверху натріть сир.",
+      "Запікайте 30–35 хвилин до рум’яної скоринки. Дайте постояти 5 хвилин перед нарізанням."
+    ]
+  },
+  {
+    "Name": "Яблуко з йогуртом",
+    "MealType": "Snack",
+    "ImagePath": "Assets/Images/yogurt.jpg",
+    "CookingTimeMinutes": 5,
+    "Servings": 1,
+    "Ingredients": [
+      { "Name": "Яблуко", "CaloriesPer100g": 52, "WeightGrams": 150 },
+      { "Name": "Йогурт", "CaloriesPer100g": 59, "WeightGrams": 100 },
+      { "Name": "Мед", "CaloriesPer100g": 304, "WeightGrams": 10 }
+    ],
+    "InstructionSteps": [
+      "Яблуко вимийте, видаліть серцевину і наріжте часточками.",
+      "Покладіть у піалу, полийте йогуртом і медом.",
+      "Подавайте одразу, щоб яблуко не потемніло."
+    ]
+  }
+]
